@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "384692348205",
+    "firebase_url": "https://pfe-projet-d2a50.firebaseio.com",
+    "project_id": "pfe-projet-d2a50",
+    "storage_bucket": "pfe-projet-d2a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384692348205:android:428c853133ceafd0fb5fa4",
+        "android_client_info": {
+          "package_name": "islamelalani.pfeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384692348205-aa6v75q3qni3tr5odeffhaq7jo8f20fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "islamelalani.pfeapp",
+            "certificate_hash": "93997d725fa7c229c08f454d88ada4beb577d898"
+          }
+        },
+        {
+          "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCzHqVgpEIg-eRBkL2qYeZl87BWHn3n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384692348205:android:0a82bb91bdbc2823fb5fa4",
+        "android_client_info": {
+          "package_name": "islamelalani.pfeappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCzHqVgpEIg-eRBkL2qYeZl87BWHn3n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384692348205-jta1reobgh7l1q2nu5mp07vrnkai4q63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
